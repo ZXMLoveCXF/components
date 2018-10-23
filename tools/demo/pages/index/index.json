@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "comp": "../../components/word/word",
+    "wrap": "../../components/wrap-line/wrap-line"
+  }
+}

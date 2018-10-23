@@ -1,0 +1,12 @@
+.singleLine {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break:break-word;
+}
+
+.multipleWrap {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
