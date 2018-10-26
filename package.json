@@ -1,6 +1,6 @@
 {
   "name": "zxmui",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "zxm 小程序组件库",
   "main": "miniprogram_dist/index.js",
   "scripts": {
